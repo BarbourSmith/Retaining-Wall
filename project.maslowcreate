@@ -194,18 +194,18 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Linear Pattern",
-                    "x": 0.3191800878477306,
-                    "y": 0.4236641221374046,
+                    "x": 0.32064421669106885,
+                    "y": 0.46564885496183206,
                     "uniqueID": 913853,
                     "projectID": "304166099",
                     "ioValues": [
                         {
                             "name": "Spacing",
-                            "ioValue": 52
+                            "ioValue": 48
                         },
                         {
                             "name": "Number",
-                            "ioValue": 5
+                            "ioValue": 6
                         }
                     ],
                     "simplify": false
@@ -223,7 +223,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 48
+                            "ioValue": 45
                         },
                         {
                             "name": "yDist",
@@ -416,7 +416,7 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "2x12x10'",
+                    "name": "2x12x12'",
                     "x": 0.14714494875549047,
                     "y": 0.450381679389313,
                     "uniqueID": 213849,
@@ -426,8 +426,8 @@
                         {
                             "atomType": "Extrude",
                             "name": "Extrude",
-                            "x": 0.2547584187408492,
-                            "y": 0.5190839694656488,
+                            "x": 0.2525622254758419,
+                            "y": 0.4961832061068702,
                             "uniqueID": 574578,
                             "ioValues": [
                                 {
@@ -436,7 +436,7 @@
                                 },
                                 {
                                     "name": "height",
-                                    "ioValue": 96
+                                    "ioValue": 144
                                 }
                             ]
                         },
@@ -534,9 +534,9 @@
                                 }
                             ],
                             "BOMitem": {
-                                "BOMitemName": "Redwood 2x12x10",
+                                "BOMitemName": "Redwood 2x12x12'",
                                 "numberNeeded": 1,
-                                "costUSD": 80,
+                                "costUSD": 61.89,
                                 "source": "www.example.com",
                                 "totalNeeded": 1,
                                 "radius": 0.015384615384615385
@@ -637,7 +637,7 @@
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 50
+                            "ioValue": 48
                         },
                         {
                             "name": "yDist",
