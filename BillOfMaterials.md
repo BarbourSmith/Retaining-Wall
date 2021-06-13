@@ -3,6 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Redwood 6x6x8'|1|$60.00|www.example.com|
-|Total: |1|$60.00| |
+|Redwood 2x12x10|1|$80.00|www.example.com|
+|Total: |2|$140.00| |
 
- 3xCOG MSRP: $180.00
+ 3xCOG MSRP: $420.00
