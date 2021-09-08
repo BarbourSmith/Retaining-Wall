@@ -150,7 +150,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/824834/884779/275087Add-BOM-Tag"
+                            "ioValue": "atoms/873992/824834/884779Molecule"
                         },
                         {
                             "name": "xDist",
@@ -175,7 +175,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/824834/884779/275087Add-BOM-Tag"
+                            "ioValue": "atoms/873992/824834/884779Molecule"
                         },
                         {
                             "name": "xDist",
@@ -219,7 +219,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/824834/913853/709218Code"
+                            "ioValue": "atoms/873992/824834/913853GitHubMolecule"
                         },
                         {
                             "name": "xDist",
@@ -381,7 +381,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/798295/213849/767468Add-BOM-Tag"
+                            "ioValue": "atoms/873992/798295/213849Molecule"
                         },
                         {
                             "name": "xDist",
@@ -595,7 +595,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/798295/213849/767468Add-BOM-Tag"
+                            "ioValue": "atoms/873992/798295/213849Molecule"
                         },
                         {
                             "name": "xDist",
@@ -645,7 +645,7 @@
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "atoms/873992/798295/213849/767468Add-BOM-Tag"
+                            "ioValue": "atoms/873992/798295/213849Molecule"
                         },
                         {
                             "name": "xDist",

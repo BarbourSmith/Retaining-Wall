@@ -2,8 +2,8 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Redwood 6x6x8'|1|$60.00|www.example.com|
-|Redwood 2x12x12'|1|$61.89|www.example.com|
-|Total: |2|$121.89| |
+|Redwood 6x6x8'|7|$420.00|www.example.com|
+|Redwood 2x12x12'|8|$495.12|www.example.com|
+|Total: |15|$915.12| |
 
- 3xCOG MSRP: $365.67
+ 3xCOG MSRP: $2745.36
