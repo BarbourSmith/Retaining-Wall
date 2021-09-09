@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Posts",
-            "x": 0.15373352855051245,
-            "y": 0.2099236641221374,
+            "x": 0.15446559297218154,
+            "y": 0.17938931297709923,
             "uniqueID": 824834,
             "ioValues": [],
             "topLevel": false,
@@ -19,8 +19,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "6x6",
-                    "x": 0.08638360175695461,
-                    "y": 0.33969465648854963,
+                    "x": 0.08272327964860908,
+                    "y": 0.3244274809160305,
                     "uniqueID": 884779,
                     "ioValues": [],
                     "topLevel": false,
@@ -71,7 +71,7 @@
                                     "ioValue": "atoms/873992/824834/884779/975739Extrude"
                                 }
                             ],
-                            "selectedColorIndex": "5"
+                            "selectedColorIndex": "10"
                         },
                         {
                             "atomType": "Add-BOM-Tag",
@@ -88,7 +88,7 @@
                             "BOMitem": {
                                 "BOMitemName": "Redwood 6x6x8'",
                                 "numberNeeded": 1,
-                                "costUSD": 60,
+                                "costUSD": 90,
                                 "source": "www.example.com",
                                 "totalNeeded": 1,
                                 "radius": 0.015384615384615385
@@ -366,8 +366,8 @@
         {
             "atomType": "Molecule",
             "name": "Boards",
-            "x": 0.12225475841874085,
-            "y": 0.5763358778625954,
+            "x": 0.12445095168374817,
+            "y": 0.5458015267175573,
             "uniqueID": 798295,
             "ioValues": [],
             "topLevel": false,
@@ -400,7 +400,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "2x12x12'",
-                    "x": 0.08931185944363104,
+                    "x": 0.08565153733528551,
                     "y": 0.36259541984732824,
                     "uniqueID": 213849,
                     "ioValues": [],
