@@ -1060,10 +1060,27 @@
             "unitsIndex": 0
         },
         {
+            "atomType": "Group",
+            "name": "Group",
+            "x": 0.4633967789165447,
+            "y": 0.37404580152671757,
+            "uniqueID": 442659,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": "source/873992/824834Molecule"
+                },
+                {
+                    "name": "3D shape 2",
+                    "ioValue": "source/873992/798295Molecule"
+                }
+            ]
+        },
+        {
             "atomType": "Molecule",
             "name": "Boards",
-            "x": 0.12235449735449735,
-            "y": 0.5705128205128205,
+            "x": 0.1302910052910053,
+            "y": 0.5897435897435898,
             "uniqueID": 798295,
             "ioValues": [],
             "topLevel": false,
@@ -1498,23 +1515,6 @@
             "unitsIndex": 0
         },
         {
-            "atomType": "Group",
-            "name": "Group",
-            "x": 0.4633967789165447,
-            "y": 0.37404580152671757,
-            "uniqueID": 442659,
-            "ioValues": [
-                {
-                    "name": "3D shape 1",
-                    "ioValue": "source/873992/824834Molecule"
-                },
-                {
-                    "name": "3D shape 2",
-                    "ioValue": "source/873992/798295Molecule"
-                }
-            ]
-        },
-        {
             "atomType": "Molecule",
             "name": "Move Over Section",
             "x": 0.6749633967789165,
@@ -1784,18 +1784,18 @@
             "ap2ID": 442659
         },
         {
-            "ap1Name": "Geometry",
-            "ap2Name": "3D shape 2",
-            "ap2Primary": false,
-            "ap1ID": 798295,
-            "ap2ID": 442659
-        },
-        {
             "ap1Name": "geometry",
             "ap2Name": "Wall",
             "ap2Primary": false,
             "ap1ID": 442659,
             "ap2ID": 865339
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 798295,
+            "ap2ID": 442659
         },
         {
             "ap1Name": "Geometry",
