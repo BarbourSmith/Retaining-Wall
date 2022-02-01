@@ -2,8 +2,9 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Redwood 6x6x8'|7|$630.00|www.example.com|
+|Redwood 6x6x8'|2|$180.00|www.example.com|
+|Metal Post|5|$40.00|www.example.com|
 |Redwood 2x12x12'|8|$495.12|www.example.com|
-|Total: |15|$1125.12| |
+|Total: |15|$715.12| |
 
- 3xCOG MSRP: $3375.36
+ 3xCOG MSRP: $2145.36
