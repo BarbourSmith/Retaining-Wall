@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Posts",
-            "x": 0.15446559297218154,
-            "y": 0.17938931297709923,
+            "x": 0.15806878306878305,
+            "y": 0.16666666666666666,
             "uniqueID": 824834,
             "ioValues": [],
             "topLevel": false,
@@ -294,7 +294,7 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 0
+                                    "ioValue": 0.5
                                 },
                                 {
                                     "name": "zDist",
@@ -851,8 +851,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.2969576719576719,
-                    "y": 0.5769230769230769,
+                    "x": 0.29563492063492064,
+                    "y": 0.5448717948717949,
                     "uniqueID": 288098,
                     "ioValues": [
                         {
@@ -865,7 +865,7 @@
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -5.5
+                            "ioValue": -2.5
                         },
                         {
                             "name": "zDist",
