@@ -2,10 +2,10 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|U Bolt|28|$157.64|https://www.mcmaster.com/2936T92/|
+|U Bolt|24|$135.12|https://www.mcmaster.com/2936T92/|
 |Redwood 6x6x8'|2|$180.00|www.example.com|
-|Metal Post|7|$56.00|www.example.com|
+|Metal Post|6|$48.00|www.example.com|
 |Redwood 2x12x12'|16|$990.24|www.example.com|
-|Total: |53|$1383.88| |
+|Total: |48|$1353.36| |
 
- 3xCOG MSRP: $4151.64
+ 3xCOG MSRP: $4060.08
