@@ -5,7 +5,8 @@
 |U Bolt|24|$135.12|https://www.mcmaster.com/2936T92/|
 |Redwood 6x6x8'|2|$180.00|www.example.com|
 |Metal Post|6|$48.00|www.example.com|
-|Redwood 2x12x12'|16|$990.24|www.example.com|
+|Redwood 2x12x12'|8|$495.12|www.example.com|
+|Redwood 2x12x16'|8|$495.12|www.example.com|
 |Total: |48|$1353.36| |
 
  3xCOG MSRP: $4060.08
