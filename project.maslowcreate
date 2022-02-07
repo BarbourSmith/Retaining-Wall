@@ -145,8 +145,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.24890190336749635,
-                    "y": 0.2595419847328244,
+                    "x": 0.30687830687830686,
+                    "y": 0.14102564102564102,
                     "uniqueID": 320253,
                     "ioValues": [
                         {
@@ -168,10 +168,85 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.20965608465608468,
+                    "y": 0.4166666666666667,
+                    "uniqueID": 320052,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/873992/824834/884779Molecule"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -5.5
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -48
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.3644179894179894,
+                    "y": 0.375,
+                    "uniqueID": 652307,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/873992/824834/320052Translate"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 319.5
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.25,
+                    "y": 0.7884615384615384,
+                    "uniqueID": 288098,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "source/873992/824834/802958Molecule"
+                        },
+                        {
+                            "name": "xDist",
+                            "ioValue": 3
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -3
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": -48
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "Metal Post",
-                    "x": 0.1832010582010582,
-                    "y": 0.5576923076923077,
+                    "x": 0.09259259259259259,
+                    "y": 0.826923076923077,
                     "uniqueID": 802958,
                     "ioValues": [],
                     "topLevel": false,
@@ -185,7 +260,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 2
+                                    "ioValue": 2.5
                                 }
                             ]
                         },
@@ -294,7 +369,7 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 0.5
+                                    "ioValue": 0.25
                                 },
                                 {
                                     "name": "zDist",
@@ -664,8 +739,8 @@
                         {
                             "atomType": "Move",
                             "name": "Move",
-                            "x": 0.6772486772486772,
-                            "y": 0.717948717948718,
+                            "x": 0.6931216931216931,
+                            "y": 0.7724358974358974,
                             "uniqueID": 916819,
                             "ioValues": [
                                 {
@@ -689,8 +764,8 @@
                         {
                             "atomType": "Move",
                             "name": "Move",
-                            "x": 0.7724867724867724,
-                            "y": 0.7275641025641025,
+                            "x": 0.7804232804232805,
+                            "y": 0.7628205128205128,
                             "uniqueID": 712787,
                             "ioValues": [
                                 {
@@ -830,75 +905,6 @@
                     "unitsIndex": 0
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Linear Pattern",
-                    "x": 0.39021164021164023,
-                    "y": 0.46474358974358976,
-                    "uniqueID": 913853,
-                    "projectID": "304166099",
-                    "ioValues": [
-                        {
-                            "name": "Spacing",
-                            "ioValue": 48
-                        },
-                        {
-                            "name": "Number",
-                            "ioValue": 6
-                        }
-                    ],
-                    "simplify": false
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 0.2976190476190476,
-                    "y": 0.5448717948717949,
-                    "uniqueID": 288098,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": "source/873992/824834/802958Molecule"
-                        },
-                        {
-                            "name": "xDist",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -2.75
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -48
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 0.5231481481481481,
-                    "y": 0.43910256410256415,
-                    "uniqueID": 811926,
-                    "ioValues": [
-                        {
-                            "name": "geometry",
-                            "ioValue": "source/873992/824834/913853GitHubMolecule"
-                        },
-                        {
-                            "name": "xDist",
-                            "ioValue": 45
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
                     "atomType": "Group",
                     "name": "Group",
                     "x": 0.8052708638360176,
@@ -920,44 +926,38 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 0.17724867724867727,
-                    "y": 0.8365384615384615,
-                    "uniqueID": 320052,
+                    "atomType": "GitHubMolecule",
+                    "name": "Linear Pattern",
+                    "x": 0.4021164021164021,
+                    "y": 0.766025641025641,
+                    "uniqueID": 913853,
+                    "projectID": "304166099",
                     "ioValues": [
                         {
-                            "name": "geometry",
-                            "ioValue": "source/873992/824834/884779Molecule"
+                            "name": "Spacing",
+                            "ioValue": 48
                         },
                         {
-                            "name": "xDist",
-                            "ioValue": 3
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -5.5
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -48
+                            "name": "Number",
+                            "ioValue": 6
                         }
-                    ]
+                    ],
+                    "simplify": false
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 0.3082010582010582,
-                    "y": 0.8461538461538461,
-                    "uniqueID": 652307,
+                    "x": 0.5641534391534392,
+                    "y": 0.673076923076923,
+                    "uniqueID": 811926,
                     "ioValues": [
                         {
                             "name": "geometry",
-                            "ioValue": "source/873992/824834/320052Translate"
+                            "ioValue": "source/873992/824834/913853GitHubMolecule"
                         },
                         {
                             "name": "xDist",
-                            "ioValue": 319.5
+                            "ioValue": 45
                         },
                         {
                             "name": "yDist",
@@ -1006,41 +1006,6 @@
                     "ap2ID": 887663
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 802958,
-                    "ap2ID": 288098
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 913853,
-                    "ap2ID": 811926
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "Shape",
-                    "ap2Primary": false,
-                    "ap1ID": 288098,
-                    "ap2ID": 913853
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 2",
-                    "ap2Primary": false,
-                    "ap1ID": 811926,
-                    "ap2ID": 887663
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap2Primary": false,
-                    "ap1ID": 887663,
-                    "ap2ID": 912283
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
@@ -1052,6 +1017,41 @@
                     "ap2Name": "3D shape 3",
                     "ap2Primary": false,
                     "ap1ID": 652307,
+                    "ap2ID": 887663
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "Shape",
+                    "ap2Primary": false,
+                    "ap1ID": 288098,
+                    "ap2ID": 913853
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 802958,
+                    "ap2ID": 288098
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 887663,
+                    "ap2ID": 912283
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 913853,
+                    "ap2ID": 811926
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 2",
+                    "ap2Primary": false,
+                    "ap1ID": 811926,
                     "ap2ID": 887663
                 }
             ],
